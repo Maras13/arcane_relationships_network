@@ -19,60 +19,6 @@ This project creates an interactive network visualization of characters from the
 - **JavaScript (D3.js)** 🌐: Provides a customizable, interactive web visualization of the network.
 - **HTML/CSS** 💻: Used for structuring and styling the D3.js-based web visualization.
 
-## 📥 Setup Instructions
-
-### Python Version (Using Pyvis) 🐍
-
-1. **Install Required Libraries 📦**:
-
-   If you don’t have Pyvis and NetworkX installed, you can install them using pip:
-
-   ```bash
-   pip install pyvis networkx
-   ```
-
-2. **Run the Python Script 🎬**:
-
-   The `arcane_relationship_viz.py` script generates the interactive visualization and saves it as an HTML file.
-   
-   Run the script:
-
-   ```bash
-   python arcane_relationship_viz.py
-   ```
-
-   The HTML file (`arcane_visualization_with_title_once.html`) will be generated in the same directory.
-
-3. **View the Visualization 👀**:
-
-   Open the HTML file in a web browser to explore the network.
-
-### JavaScript Version (Using D3.js) 🌐
-
-1. **Clone the Repository 📥**:
-
-   ```bash
-   git clone https://github.com/your-username/arcane-relationship-viz.git
-   cd arcane-relationship-viz
-   ```
-
-2. **Open the HTML File 🖥️**:
-
-   Open the `arcane-relationships.html` file in any modern web browser (Chrome, Firefox, Safari).
-
-   ```bash
-   open arcane-relationships.html
-   ```
-
-   Alternatively, double-click on the file to open it in a browser.
-
-3. **Explore the Visualization 🔍**:
-
-   The graph will render with character names displayed on the nodes. You can interact with the graph by dragging nodes around to explore different relationships.
-
-## 🎨 Customization Options
-
-You can customize both the Python and JavaScript versions of the visualization as follows:
 
 ### Python Version 🐍
 
@@ -126,9 +72,5 @@ const links = [
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **D3.js** and **Pyvis** for enabling the creation of interactive and customizable visualizations.
-- The creators of *Arcane* for providing an interesting set of characters and relationships to visualize.
 
 ---
