@@ -27,5 +27,5 @@ Both versions display the relationships between key characters from *Arcane*, wi
 1. **Clone the Repository** 📥:
 
    ```bash
-   git clone https://github.com/your-username/arcane-relationship-viz.git
-   cd arcane-relationship-viz
+   git clone https://github.com/Maras13/arcane_relationship_viz.git
+   cd arcane_relationship_viz
